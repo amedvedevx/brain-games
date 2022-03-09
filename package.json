@@ -1,0 +1,22 @@
+{
+  "name": "brain-games",
+  "version": "1.0.0",
+  "description": "first front-end project on Hexlet",
+  "main": "index.js",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medvedevnet/brain-games.git"
+  },
+  "author": "Alexandr Medvedev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medvedevnet/brain-games/issues"
+  },
+  "homepage": "https://github.com/medvedevnet/brain-games#readme"
+}
