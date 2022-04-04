@@ -1,10 +1,12 @@
 {
   "name": "brain-games",
   "version": "1.0.0",
+  "type": "module",
   "description": "first front-end project on Hexlet",
-  "main": "index.js",
+  "main": "src/index.js",
   "bin": {
-    "brain-games": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +20,14 @@
   "bugs": {
     "url": "https://github.com/medvedevnet/brain-games/issues"
   },
-  "homepage": "https://github.com/medvedevnet/brain-games#readme"
+  "homepage": "https://github.com/medvedevnet/brain-games#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.5.4",
+    "eslint": "^8.10.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  }
 }
