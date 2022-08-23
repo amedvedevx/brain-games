@@ -1,7 +1,7 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/medvedevnet/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/medvedevnet/frontend-project-lvl1/actions)
 
-## Description and demos
+## Description
 
 Every game is a simple 3-round process, giving questions and accepting user answers
 
