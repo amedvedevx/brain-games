@@ -1,15 +1,15 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/medvedevnet/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/medvedevnet/frontend-project-lvl1/actions)
 
-## Description and demos
+## Description
 
 Every game is a simple 3-round process, giving questions and accepting user answers
 
-- [Brain-even] - guess if the number is even or not
-- [Brain-gcd] - find the greatest common divisor of 2 given numbers
-- [Brain-progression] - find the missing element of a random arithmetic progression
-- [Brain-prime] - guess if the given number is prime or not
-- [Brain-calc] - find a result of a given random math operation with 2 numbers
+- Brain-even - guess if the number is even or not
+- Brain-gcd - find the greatest common divisor of 2 given numbers
+- Brain-progression - find the missing element of a random arithmetic progression
+- Brain-prime - guess if the given number is prime or not
+- Brain-calc - find a result of a given random math operation with 2 numbers
 
 ## How to install and use
 
